@@ -37,11 +37,11 @@ This analysis dives into the dataset to answer questions like:
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/](https://github.com/)<Your-GitHub-Username>/<Your-Repo-Name>.git
+    git clone [https://github.com/](https://github.com/)<VedantNair14>/<IPL-Data-Analysis>.git
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd <Your-Repo-Name>
+    cd <IPL-Data-Analysis>
     ```
 3.  Install the required dependencies:
     ```bash
