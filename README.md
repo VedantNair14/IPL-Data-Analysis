@@ -1,6 +1,6 @@
 # IPL Data Analysis (2008-2020)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<Your-GitHub-Username>/<Your-Repo-Name>/blob/main/IPL%20Data%20Analysis%20till%202020.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<VedantNair14>/<IPL-Data-Analysis>/blob/main/IPL%20Data%20Analysis%20till%202020.ipynb)
 
 An in-depth exploratory data analysis (EDA) of the Indian Premier League (IPL) from its inaugural season in 2008 through the 2020 season. This project uses Python and popular data science libraries to uncover trends, analyze match results, and visualize key insights from 12 seasons of IPL data.
 
@@ -15,7 +15,7 @@ This analysis dives into the dataset to answer questions like:
 * Which venues are the most popular for hosting matches?
 * What are the biggest victory margins (by runs and by wickets)?
 
-*(...and many more!)*
+...and many more!
 
 ## 🛠️ Technology Stack
 
@@ -55,4 +55,8 @@ This analysis dives into the dataset to answer questions like:
 
 ## 📖 Data Source
 
-You can find it [here](https://drive.google.com/drive/folders/1fM6LllARB_6EJF5nZ15ppntRlRKeJdkC?usp=sharing).
+The dataset files for this project are hosted on Google Drive as they exceed GitHub's file size limit.
+
+You can access and download the files from the link below:
+
+[**Download Dataset Files (Google Drive)**](https://drive.google.com/drive/folders/1fM6LllARB_6EJF5nZ15ppntRlRKeJdkC?usp=sharing)
